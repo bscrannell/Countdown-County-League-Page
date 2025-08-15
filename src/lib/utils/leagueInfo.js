@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "your_league_id"; // your league ID
+export const leagueID = "1180168753995476992"; // your league ID
 export const leagueName = "Countdown County FFL"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
